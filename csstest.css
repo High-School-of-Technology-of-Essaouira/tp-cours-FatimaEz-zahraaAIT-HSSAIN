@@ -1,0 +1,27 @@
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #bbbcc0;
+    position:fixed;
+  }
+
+
+li {
+    float: left;
+  }
+  
+li a {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: block;
+    color: whitesmoke;
+    font-weight: bold;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+li a:hover {
+    background-color: #96a7be;
+  }
